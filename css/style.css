@@ -1,0 +1,65 @@
+/* line 1, ../sass/style.scss */
+.primary-text {
+  color: #212121 !important;
+}
+
+/* line 5, ../sass/style.scss */
+.secondary-text {
+  color: #757575 !important;
+}
+
+/* line 9, ../sass/style.scss */
+.card.horizontal {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+/* line 11, ../sass/style.scss */
+.card.horizontal .card-image {
+  max-width: 30%;
+}
+/* line 14, ../sass/style.scss */
+.card.horizontal .card-content {
+  padding: 15px;
+}
+
+/* line 19, ../sass/style.scss */
+.collection {
+  border: none;
+  margin-bottom: 0.5rem;
+}
+/* line 22, ../sass/style.scss */
+.collection .collection-item {
+  background-color: #f1f4f4;
+}
+
+/* line 31, ../sass/style.scss */
+.card.medium .card-content {
+  padding: 18px;
+}
+/* line 33, ../sass/style.scss */
+.card.medium .card-content p {
+  color: #757575 !important;
+}
+/* line 37, ../sass/style.scss */
+.card.medium .card-action {
+  padding: 18px;
+}
+/* line 39, ../sass/style.scss */
+.card.medium .card-action a:not(.btn):not(.btn-large):not(.btn-large):not(.btn-floating) {
+  margin-right: 10px !important;
+}
+
+/* line 46, ../sass/style.scss */
+nav .brand-logo {
+  left: 28%;
+  font-size: 20px;
+}
+/* line 50, ../sass/style.scss */
+nav .button-collapse {
+  margin-left: 0px;
+}
+
+/* line 56, ../sass/style.scss */
+.tabs.tabs-transparent .indicator {
+  background-color: white;
+  height: 3px;
+}

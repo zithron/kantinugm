@@ -1,0 +1,60 @@
+.primary-text {
+    color: #212121 !important;
+}
+
+.secondary-text {
+    color: #757575 !important;
+}
+
+.card.horizontal {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    .card-image {
+        max-width: 30%;
+    }
+    .card-content {
+        padding: 15px;
+    }
+}
+
+.collection {
+    border: none;
+    margin-bottom: 0.5rem;
+    .collection-item {
+        background-color: #f1f4f4;
+    }
+}
+
+.card.medium {
+    .card-image {
+        // max-height: 0%;
+    }
+    .card-content {
+        padding: 18px;
+        p {
+            color: #757575 !important;
+        }
+    }
+    .card-action {
+        padding: 18px;
+        a:not(.btn):not(.btn-large):not(.btn-large):not(.btn-floating) {
+            margin-right: 10px !important;
+        }
+    }
+}
+
+nav {
+    .brand-logo {
+        left: 28%;
+        font-size: 20px;
+    }
+    .button-collapse {
+        margin-left: 0px;
+    }
+}
+
+.tabs.tabs-transparent {
+    .indicator {
+        background-color: white;
+        height: 3px;
+    }
+}
