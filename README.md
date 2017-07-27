@@ -1,1 +1,2 @@
 # kantinugm
+mobile device only
